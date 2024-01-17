@@ -1,0 +1,20 @@
+## missi_phoneext4_global-user 13 TP1A.220624.014 V14.0.9.0.TLUMIXM release-keys
+- Manufacturer: alps
+- Platform: common
+- Codename: mihal
+- Brand: alps
+- Flavor: missi_phoneext4_global-user
+- Release Version: 13
+- Kernel Version: 5.10.168
+- Id: TP1A.220624.014
+- Incremental: V14.0.9.0.TLUMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: alps/mihal/mihal:12/TP1A.220624.014/V14.0.9.0.TLUMIXM:user/release-keys
+- OTA version: 
+- Branch: missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.9.0.TLUMIXM-release-keys
+- Repo: alps_mihal_dump
