@@ -1,0 +1,14 @@
+# missi_phone_global_ext4-user 14 UP1A.231005.007 V816.0.2.0.ULUMIXM release-keys
+- manufacturer: alps
+- platform: common
+- codename: mihal
+- flavor: missi_phone_global_ext4-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: V816.0.2.0.ULUMIXM
+- tags: release-keys
+- fingerprint: alps/mihal/mihal:12/TP1A.220624.014/V816.0.2.0.ULUMIXM:user/release-keys
+- is_ab: true
+- brand: alps
+- branch: missi_phone_global_ext4-user-14-UP1A.231005.007-V816.0.2.0.ULUMIXM-release-keys
+- repo: alps_mihal_dump
